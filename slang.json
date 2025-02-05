@@ -45,7 +45,7 @@
         { "abbr": "tmi", "meaning": "too much information" },
         { "abbr": "tmrw", "meaning": "tomorrow" },
         { "abbr": "ttyl", "meaning": "talk to you later" },
-        { "abbr": "tuff", "meaning": "cool" },
+        { "abbr": "tuff", "meaning": "really cool" },
         { "abbr": "wassup", "meaning": "what's up" },
         { "abbr": "wyd", "meaning": "what are you doing?" },
         { "abbr": "wym", "meaning": "what do you mean?" },
@@ -55,7 +55,9 @@
         { "abbr": "flex", "meaning": "show off" },
         { "abbr": "fire", "meaning": "awesome/cool" },
         { "abbr": "kicks", "meaning": "shoes" },
-        { "abbr": "no cap", "meaning": "no lie" },
+        { "abbr": "no cap", "meaning": "not lying" },
+        { "abbr": "cap", "meaning": "not true/fake" },
+        { "abbr": "capping", "meaning": "lying" },
         { "abbr": "yuh", "meaning": "yes" }
     ]
 }

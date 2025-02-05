@@ -73,10 +73,10 @@ form label, h2 {
 #user-input:focus, .glow, #submit-btn:hover {
     outline: none;
     box-shadow:
-        0 0 10px rgba(255, 255, 255, 0.8),
-        0 0 20px rgba(255, 255, 255, 0.6),
+        0 0 10px rgba(255, 255, 255, 1),
+        0 0 20px rgba(255, 255, 255, 0.7),
         0 0 30px rgba(255, 255, 255, 0.4),
-        0 0 40px rgba(255, 255, 255, 0.2);
+        0 0 40px rgba(255, 255, 255, 0.1);
 }
 
 #user-input, #translation-text {
