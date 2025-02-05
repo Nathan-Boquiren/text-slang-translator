@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <title>Text Slang Translator</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Text Slang Translator</h1>
+    </header>
+
+    <main>
+        <form id="text-input-form">
+            <label for="user-input">Input Text:</label>
+            <textarea name="user-input" id="user-input" required></textarea>
+        </form>
+
+        <button type="submit" form="text-input-form" id="submit-btn">👉</button>
+
+        <div class="translation-container">
+            <h2>Translated Text:</h2>
+            <div id="translation-text"></div>
+        </div>
+
+    </main>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
