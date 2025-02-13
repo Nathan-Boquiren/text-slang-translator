@@ -42,6 +42,10 @@ h1 {
     margin: 5rem 0 10rem;
     font-size: 3rem;
     text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.20);
+    border-radius: 20px;
+    padding: 8px 3rem;
+    position: relative;
+    backdrop-filter: blur(20px);
 }
 
 main {
@@ -106,7 +110,7 @@ form label, h2 {
 }
 
 #user-input, #translation-text, #submit-btn {
-    backdrop-filter: blur(20px) brightness(0.6);
+    backdrop-filter: blur(20px) brightness(0.75);
 }
 
 #submit-btn:hover {
